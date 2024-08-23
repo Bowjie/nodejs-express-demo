@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-demo",
+  "version": "1.0.0",
+  "description": "Demo of expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "MBJ",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "@types/node": "^22.2.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "node": "^22.6.0"
+  }
+}
